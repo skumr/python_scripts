@@ -1,2 +1,2 @@
 # python-programming-scripts
-This repository will have access to Python-3.8 scripts displaying my knowledge of Python programming concepts and my growth as a programmer over time.
+Welcome! My name is Sudarshan Kumar and this is my GitHub repository used for storing Python programming scripts that I've written. Here, you can see my experience as a Python programmer and make an assessment of my knowledge in programming concepts. Please feel free to contact me by email for any questions. Thank you!
